@@ -1,2 +1,3 @@
-# ReduxWorkshop
-Reactathon2017 - ReduxWorkshop
+## Client
+
+This is the place for your application front-end files.
